@@ -8,7 +8,7 @@ page = st.sidebar.radio("Go to", ["About Me", "Portfolio"])
 # About Me Page
 if page == "About Me":
     st.write("## About Me")
-    st.write("I'm **Francis Vinz Racaza**, a passionate software developer with experience in both frontend and backend development.")
+    st.write("I'm **Francis Vinz Racaza**, not sure software engineer in the future but will try to be one :D")
     st.write("### Details:")
     st.write("- **Age:** 23")
     st.write("- **Gender:** Male")
