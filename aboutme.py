@@ -1,7 +1,7 @@
 import streamlit as st
 
 # Title and Sidebar Navigation
-st.title("Francis Vinz Racaza - Portfolio")
+st.title("Francis Vinz Racaza")
 st.sidebar.title("Navigation")
 page = st.sidebar.radio("Go to", ["About Me", "Portfolio"])
 
